@@ -1,4 +1,5 @@
 package arcanoid_game_steps.step_06_collision_detection;
+
 import java.awt.Graphics2D;
 import java.awt.Rectangle;
 import java.awt.event.KeyEvent;
